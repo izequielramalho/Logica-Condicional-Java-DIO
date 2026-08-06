@@ -44,7 +44,7 @@ public class OperadoresLogicos {
         boolean salarioBaixo = salarioMensal < mediaSalario;
         boolean muitosDependentes = quantidadeDependentes >= mediaDependentes;
 
-        System.out.println((salarioBaixo) && (muitosDependentes)); //true
+        System.out.println((salarioBaixo) && (muitosDependentes)); //false
 
     }
 }
