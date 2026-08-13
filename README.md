@@ -22,4 +22,3 @@ de fluxos em Java.
 ## Autor
 **Izequiel Ramalho de Sousa Alves**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Izequiel-blue)](https://linkedin.com/in/izequielramalho)
->>>>>>> 07210a2737ba14092e9efee0781a1b6dcda1f2b3
