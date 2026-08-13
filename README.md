@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Logica Condicional java DIO
-=======
+
 # Lógica Condicional e Controle de Fluxos - DIO Orange Tech+
 
 Repositório criado durante o bootcamp Orange Tech+ Backend da DIO,
