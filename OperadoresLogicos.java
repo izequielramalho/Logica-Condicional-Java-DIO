@@ -1,4 +1,4 @@
-package estudos.Izequiel.LogicaCondicional;
+package estudos.Izequiel.logicaCondicional;
 
 /**
  * Classe de exemplo para o exercício da Aula 2 de Operadores lógicos e relacionais, Controle de fluxo e Blocos

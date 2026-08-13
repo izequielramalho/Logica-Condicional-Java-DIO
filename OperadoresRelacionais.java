@@ -1,4 +1,4 @@
-package estudos.Izequiel.LogicaCondicional;
+package estudos.Izequiel.logicaCondicional;
 
 /**
  * Classe de exemplo para operadores relacionais
